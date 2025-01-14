@@ -30,3 +30,8 @@ sudo journalctl -u cico_service
 
 Xem logs theo thời gian thực:
 sudo journalctl -u cico_service -f
+
+
+//////// jetson nano ///////
+môi trường ảo USB
+source /home/jetson/Downloads/my_env/bin/activate
